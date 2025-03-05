@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qkaustubh" alt="qkaustubh" /></a> </p>
 
 - 🔭 I’m currently working on **decentralised e-vault using blockchain**
-
+- Research paper + (https://ijetrm.com/issues/files/Nov-2024-11-1731297449-NOV011.pdf)
 - 🌱 I’m currently learning **Next.js , Solidity, Web3.js, LLMs, and AI security**
 
 - 👯 I’m looking to collaborate on **Decentralized Finance (DeFi) Applications**
